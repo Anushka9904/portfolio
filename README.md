@@ -20,7 +20,7 @@ Personal portfolio website built using React.js and Vite.
 
 ## Projects
 
-- LifeFlow — Blood Bank Management System
+- LifeFlow Blood Bank Management System
 - E-Medical Management System
 - Weather App
 - Sorting Visualizer
